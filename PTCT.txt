@@ -1,0 +1,46 @@
+
+The Key is "Spinach and Brocolli": 
+
+This is your Playfair Matrix:
+
+S       P       I       N       A
+C       H       D       B       R
+O       L       E       F       G
+K       M       Q       T       U
+V       W       X       Y       Z
+
+
+This is your condensed plain text:
+THISISANEXPERIMENTALRUNTOTESTQTHEQEFQFIUCIENCYOFPARTHANDANGADSUSERECTANGLESFUNCT
+IONASOPQPOSEDTOMINEIFWEARERIGHTQTHEIRFUNCTIONSHOULDBEABLETOEXTRACTFARMOREOFTHEMA
+TRIXTHANMINEHASBEQENABLETOITLOQOKSLIKEWEAREGOINGTONEQEDAMUCHWIDERPOQOLOFDATATHAN
+IANTICIPATEDINMYFIRSTRUNIAMNOWADQDINGALQLOFTHISLETUSQSEQEWHATHAPQPENSQ
+
+This is your encoded message:
+MBNPNPSAQIILDAQLBYPGGZBYFKOIUTMBQXFGTEAQDSFIBVLGISBURPIBSAURCIKAGDODUNAFEFNOTABK
+SEASCKIMSLIOBQLKNAQDLYGIDGDALRUTMBQDBGTABKSEAPCLMGBRGIHFFQLFYQGRBKGNHUGCFLTYDLUP
+UBDIMBSAQPIFRPNCQXFINREFKFNQELKEVCEPQOXLRGFOESAFKFIFXQRIQKHDXPEQHAEKLELGRIUNMBSA
+NSBYSDNINUQENATWENCAUBTANSTPLVIRXENAUREMELTYDPPOFQKAKIQXLXRPMBSIMIFIIK
+
+
+This is the Matrix my function, UseRectangles() extracted:
+
+I       N       A       S       P
+D       B       R       C       H
+E       F       G       O       L
+Q       T       U       K       M
+X       Y       #       #       W
+
+
+This is the Matrix Parth and Angad's function, UseRectangles2() extracted:
+
+I       N       A       S       P
+D       B       R       C       H
+E       F       G       O       L
+Q       T       U       K       M
+X       Y       Z       V       W
+
+You can try to verify the comparison by feeding in your own pools of data, and commenting out either function turn by turn, but my vote on things is the obvious one.
+Angad and Parth's function is more effeicient than mine, and is more likely to land us the matrix in 200 characters or less.
+I say we junk my function, rename theirs,UseRectangles() and send it in with the final submission of the code.
+Any comments, make them heard by tonight.
